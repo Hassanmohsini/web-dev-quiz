@@ -1,0 +1,928 @@
+[
+  {
+    "question": "1. What does HTML stand for?",
+    "options": [
+      "Hypertext Markup Language",
+      "Hyperlink and Text Markup Language",
+      "High-Level Text Markup Language",
+      "Hypertext Model Language"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "2. Which HTML tag is used for creating an unordered list?",
+    "options": [
+      "<ul>",
+      "<ol>",
+      "<li>",
+      "<dl>"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "3. What is the purpose of the HTML 'alt' attribute in an image tag?",
+    "options": [
+      "Alternative text for the image",
+      "Alignment of the image",
+      "Attribute list for the image",
+      "Anchor link for the image"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "4. Which HTML element is used to define the structure of an HTML document?",
+    "options": [
+      "<html>",
+      "<head>",
+      "<body>",
+      "<doctype>"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "5. In HTML, what does the 'br' tag represent?",
+    "options": [
+      "Break line",
+      "Bold text",
+      "Background color",
+      "Block reference"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "6. What does the HTML 'href' attribute define?",
+    "options": [
+      "The location of the linked document",
+      "The style of the hyperlink",
+      "The height of the hyperlink",
+      "The type of the linked document"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "7. Which HTML tag is used for creating a hyperlink?",
+    "options": [
+      "<a>",
+      "<link>",
+      "<hlink>",
+      "<hyper>"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "8. What is the purpose of the HTML 'meta' tag?",
+    "options": [
+      "Providing metadata about the document",
+      "Defining a new metatag",
+      "Creating a hyperlink",
+      "Styling the document"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "9. Which HTML attribute is used to define inline styles?",
+    "options": [
+      "style",
+      "css",
+      "design",
+      "inline-style"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "10. What is the correct way to comment out multiple lines in HTML?",
+    "options": [
+      "<!-- This is a comment -->",
+      "// This is a comment",
+      "/* This is a comment */",
+      "# This is a comment"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "11. Which HTML tag is used for creating a table?",
+    "options": [
+      "<table>",
+      "<tab>",
+      "<tr>",
+      "<tbl>"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "12. What is the purpose of the HTML 'span' tag?",
+    "options": [
+      "To apply styles to inline elements",
+      "To create a new paragraph",
+      "To define a section in the document",
+      "To highlight text"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "13. How can you make a numbered list in HTML?",
+    "options": [
+      "<ol>",
+      "<ul>",
+      "<li>",
+      "<dl>"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "14. Which HTML tag is used for defining the header of a document or section?",
+    "options": [
+      "<header>",
+      "<head>",
+      "<h1>",
+      "<heading>"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "15. What does the HTML 'src' attribute define in an 'img' tag?",
+    "options": [
+      "The source (URL) of the image",
+      "The size of the image",
+      "The style of the image",
+      "The alignment of the image"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "16. Which HTML tag is used to define an input field?",
+    "options": [
+      "<input>",
+      "<textinput>",
+      "<field>",
+      "<forminput>"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "17. What is the purpose of the HTML 'colspan' attribute in a table?",
+    "options": [
+      "To specify the number of columns a cell should span",
+      "To define the color of a column",
+      "To set the column width",
+      "To create a column group"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "18. Which HTML tag is used to create a line break within text?",
+    "options": [
+      "<br>",
+      "<lb>",
+      "<linebreak>",
+      "<breakline>"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "19. In HTML, what is the purpose of the 'id' attribute?",
+    "options": [
+      "To uniquely identify an element",
+      "To define a class for styling",
+      "To set the text alignment",
+      "To create an inline style"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "20. Which HTML tag is used for defining the footer of a document or section?",
+    "options": [
+      "<footer>",
+      "<foot>",
+      "<ftr>",
+      "<bottom>"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "21. How can you add a comment in an HTML document?",
+    "options": [
+      "<!-- This is a comment -->",
+      "// This is a comment",
+      "/* This is a comment */",
+      "# This is a comment"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "22. What does the HTML 'target' attribute define in a hyperlink?",
+    "options": [
+      "The browsing context for the linked document",
+      "The color of the link",
+      "The font size of the link",
+      "The type of the linked document"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "23. Which HTML tag is used to create a horizontal line?",
+    "options": [
+      "<hr>",
+      "<line>",
+      "<horizontal>",
+      "<linebreak>"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "24. What is the purpose of the HTML 'disabled' attribute in an input field?",
+    "options": [
+      "To make the input field non-editable",
+      "To hide the input field",
+      "To disable the entire form",
+      "To set the default value of the input field"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "25. Which HTML tag is used for creating a hyperlink to an email address?",
+    "options": [
+      "<a>",
+      "<mail>",
+      "<link>",
+      "<email>"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "26. What is the purpose of the HTML 'col' tag in a table?",
+    "options": [
+      "To define a column in a table",
+      "To color the text in a column",
+      "To collapse a column",
+      "To create a column group"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "27. What does the HTML 'em' element represent?",
+    "options": [
+      "An emphasized text",
+      "An email address",
+      "An embedded image",
+      "An endnote"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "28. The 'iframe' element is used to embed video content in HTML.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "29. Which HTML tag is used to create a checkbox?",
+    "options": [
+      "<check>",
+      "<input type='checkbox'>",
+      "<box>",
+      "<checkbox>"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "30. The HTML 'figcaption' element is used within a figure to provide a caption.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "31. In HTML, the 'cite' element is used to define the title of a work.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "32. Which HTML tag is used for creating a navigation menu?",
+    "options": [
+      "<nav>",
+      "<menu>",
+      "<navigate>",
+      "<navigation>"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "33. The 'pre' tag in HTML preserves both spaces and line breaks.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "34. What is the purpose of the HTML 'abbr' element?",
+    "options": [
+      "To define an abbreviation",
+      "To create a hyperlink",
+      "To align text",
+      "To highlight text"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "35. The HTML 'meter' element is used to represent scalar measurements within a known range.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "36. Which HTML attribute is used to provide a short hint about the content of an input field?",
+    "options": [
+      "placeholder",
+      "hint",
+      "tooltip",
+      "label"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "37. The 'figure' element in HTML is used to group and caption content.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "38. Which HTML tag is used to create a dropdown list?",
+    "options": [
+      "<select>",
+      "<dropdown>",
+      "<list>",
+      "<options>"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "39. The 'blockquote' element in HTML is used for creating a block of code.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "40. What is the purpose of the HTML 'sup' element?",
+    "options": [
+      "To define subscripted text",
+      "To create a hyperlink",
+      "To highlight text",
+      "To define superscripted text"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "41. The 'datalist' element in HTML is used for providing a predefined list of options for user input.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "42. Which HTML tag is used for creating an ordered list?",
+    "options": [
+      "<ol>",
+      "<ul>",
+      "<li>",
+      "<dl>"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "43. The 'summary' element in HTML is used to provide a summary or a legend for a 'details' element.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "44. What is the purpose of the HTML 'figcaption' element?",
+    "options": [
+      "To provide a caption for a figure",
+      "To create a hyperlink",
+      "To define a section in the document",
+      "To highlight text"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "45. HTML5 is the latest version of HTML.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "46. Which HTML tag is used to create an italicized text?",
+    "options": [
+      "<i>",
+      "<italic>",
+      "<em>",
+      "<italicize>"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "47. The 'figure' element is used to embed external content, such as videos or maps.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "48. What is the purpose of the HTML 'cite' attribute in a blockquote?",
+    "options": [
+      "To define the source of the quotation",
+      "To style the blockquote",
+      "To align the blockquote",
+      "To create a hyperlink in the blockquote"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "49. The 'aside' element in HTML is used for content that is tangentially related to the content around it.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "50. Which HTML tag is used to create a horizontal rule?",
+    "options": [
+      "<line>",
+      "<rule>",
+      "<hr>",
+      "<horizontal>"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "51. The 'mark' element in HTML is used to highlight parts of text.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "52. What is the purpose of the HTML 'ruby' element?",
+    "options": [
+      "To define annotations for East Asian typography",
+      "To create a hyperlink",
+      "To define a section in the document",
+      "To highlight text"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "53. The HTML 'track' element is used for providing text tracks for media elements.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "54. Which HTML tag is used for creating a slider control?",
+    "options": [
+      "<slider>",
+      "<input type='range'>",
+      "<range>",
+      "<control>"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "55. The 'small' element in HTML is used to create smaller text.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "56. What is the purpose of the HTML 'bdi' element?",
+    "options": [
+      "To isolate a part of text that might be formatted in a different direction from other text",
+      "To bold the text",
+      "To italicize the text",
+      "To create a hyperlink"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "57. The HTML 'time' element is used to represent a specific period in time.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "58. Which HTML tag is used to create a progress bar?",
+    "options": [
+      "<progress>",
+      "<bar>",
+      "<loading>",
+      "<status>"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "59. The 'code' element in HTML is used to define a piece of computer code.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "60. What is the purpose of the HTML 'article' element?",
+    "options": [
+      "To represent a self-contained piece of content that could be distributed and reused independently",
+      "To create a hyperlink",
+      "To define a section in the document",
+      "To highlight text"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "61. The 'datalist' element is used to create a list of predefined options for an input element.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "62. Which HTML tag is used for creating subscripted text?",
+    "options": [
+      "<sub>",
+      "<subscript>",
+      "<small>",
+      "<lower>"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "63. The 'output' element in HTML is used to represent the result of different types of user calculations.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "64. What is the purpose of the HTML 'nav' element?",
+    "options": [
+      "To define a set of navigation links",
+      "To create a hyperlink",
+      "To align text",
+      "To highlight text"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "65. The 'samp' element in HTML is used to represent sample output from a computer program.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "66. Which HTML tag is used for creating a date input control?",
+    "options": [
+      "<date>",
+      "<input type='date'>",
+      "<datetime>",
+      "<calendar>"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "67. The 'figcaption' element is used exclusively within a 'figure' element.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "68. What is the purpose of the HTML 'kbd' element?",
+    "options": [
+      "To represent user input",
+      "To create a hyperlink",
+      "To define a section in the document",
+      "To highlight text"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "69. The 'address' element in HTML is used to provide contact information for a document or article.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "70. Which HTML tag is used for creating a color input control?",
+    "options": [
+      "<color>",
+      "<input type='color'>",
+      "<picker>",
+      "<choosecolor>"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "71. The 'figure' element is used for grouping and captioning multimedia content.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "72. What is the purpose of the HTML 'bdo' element?",
+    "options": [
+      "To override the current text direction",
+      "To bold the text",
+      "To italicize the text",
+      "To create a hyperlink"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "73. The 'output' element is used to represent the result of user calculations, but not the results of scripts.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "74. Which HTML tag is used for creating a range input control?",
+    "options": [
+      "<range>",
+      "<input type='range'>",
+      "<slider>",
+      "<scroll>"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "75. The 'dfn' element in HTML is used to represent the defining instance of a term.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "76. What is the purpose of the HTML 'mark' element?",
+    "options": [
+      "To highlight parts of text",
+      "To create a hyperlink",
+      "To define a section in the document",
+      "To align text"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "77. The 'cite' element is used to define the title of a work and must be a hyperlink.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "78. Which HTML tag is used for creating a time input control?",
+    "options": [
+      "<timer>",
+      "<input type='time'>",
+      "<clock>",
+      "<timepicker>"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "79. The 'ruby' element is used to provide annotations for East Asian typography.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "80. What is the purpose of the HTML 'figcaption' element?",
+    "options": [
+      "To provide a caption for a figure",
+      "To create a hyperlink",
+      "To define a section in the document",
+      "To highlight text"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "81. The HTML 'datalist' element is used to provide a list of predefined options for an input element.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "82. Which HTML tag is used for creating a meter?",
+    "options": [
+      "<meter>",
+      "<gauge>",
+      "<progress>",
+      "<scale>"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "83. The 'samp' element is used to represent sample output from a computer program.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "84. What is the purpose of the HTML 'cite' attribute in a blockquote?",
+    "options": [
+      "To define the source of the quotation",
+      "To style the blockquote",
+      "To align the blockquote",
+      "To create a hyperlink in the blockquote"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "85. The HTML 'track' element is used for providing text tracks for media elements.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "86. Which HTML tag is used for creating a slider control?",
+    "options": [
+      "<slider>",
+      "<input type='range'>",
+      "<range>",
+      "<control>"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "87. The 'small' element in HTML is used to create smaller text.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "88. What is the purpose of the HTML 'bdi' element?",
+    "options": [
+      "To isolate a part of text that might be formatted in a different direction from other text",
+      "To bold the text",
+      "To italicize the text",
+      "To create a hyperlink"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "89. The HTML 'time' element is used to represent a specific period in time.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "90. Which HTML tag is used to create a progress bar?",
+    "options": [
+      "<progress>",
+      "<bar>",
+      "<loading>",
+      "<status>"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "91. The 'code' element in HTML is used to define a piece of computer code.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "92. What is the purpose of the HTML 'article' element?",
+    "options": [
+      "To represent a self-contained piece of content that could be distributed and reused independently",
+      "To create a hyperlink",
+      "To define a section in the document",
+      "To highlight text"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "93. The 'datalist' element is used to create a list of predefined options for an input element.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "94. Which HTML tag is used for creating subscripted text?",
+    "options": [
+      "<sub>",
+      "<subscript>",
+      "<small>",
+      "<lower>"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "95. The 'output' element in HTML is used to represent the result of different types of user calculations.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "96. What is the purpose of the HTML 'nav' element?",
+    "options": [
+      "To define a set of navigation links",
+      "To create a hyperlink",
+      "To align text",
+      "To highlight text"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "97. The 'samp' element in HTML is used to represent sample output from a computer program.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "98. Which HTML tag is used for creating a date input control?",
+    "options": [
+      "<date>",
+      "<input type='date'>",
+      "<datetime>",
+      "<calendar>"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "99. The 'figure' element is used for grouping and captioning multimedia content.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "100. What is the purpose of the HTML 'bdo' element?",
+    "options": [
+      "To override the current text direction",
+      "To bold the text",
+      "To italicize the text",
+      "To create a hyperlink"
+    ],
+    "correctAnswer": 0
+  }
+]

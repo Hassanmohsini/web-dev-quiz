@@ -1,0 +1,813 @@
+[
+  {
+    "question": "1. What does CSS stand for?",
+    "options": [
+      "Cascading Style Sheet",
+      "Creative Style Sheet",
+      "Computer Style Sheet",
+      "Colorful Style Sheet"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "2. Which CSS property is used to change the text color of an element?",
+    "options": ["color", "text-color", "font-color", "style-color"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "3. True or False: Inline styles have the highest specificity in CSS.",
+    "options": ["True", "False"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "4. What is the purpose of the 'box-sizing' property in CSS?",
+    "options": [
+      "Specifies the width and height of an element",
+      "Specifies how the padding and border are calculated",
+      "Specifies the position of an element",
+      "Specifies the display behavior of an element"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "5. Which CSS selector is used to select all elements with a specific class?",
+    "options": [".class", "#class", ":class", "class()"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "6. True or False: The 'position: relative;' CSS property positions an element relative to its normal position.",
+    "options": ["True", "False"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "7. What is the CSS property used for controlling the overflow of content in a box?",
+    "options": ["overflow", "overflood", "overflow-style", "content-overflow"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "8. How can you center align a block-level element in CSS?",
+    "options": [
+      "text-align: center;",
+      "margin: auto;",
+      "position: center;",
+      "float: center;"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "9. True or False: CSS Grid is a one-dimensional layout system.",
+    "options": ["True", "False"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "10. Which CSS property is used to add shadows to text?",
+    "options": ["text-shadow", "box-shadow", "shadow-effect", "font-shadow"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "11. What does the 'z-index' property in CSS control?",
+    "options": [
+      "The vertical stacking order of elements",
+      "The font size of text",
+      "The width of an element",
+      "The color of an element"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "12. True or False: CSS Grid is primarily designed for two-dimensional layouts.",
+    "options": ["True", "False"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "13. What is the purpose of the 'clear' property in CSS?",
+    "options": [
+      "To clear the background of an element",
+      "To clear the float property of an element",
+      "To clear the font styling of an element",
+      "To clear the margin of an element"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "14. Which CSS property is used for changing the spacing between lines of text?",
+    "options": ["line-height", "letter-spacing", "word-spacing", "spacing"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "15. True or False: The 'em' unit in CSS is relative to the font-size of the closest parent element.",
+    "options": ["True", "False"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "16. What is the purpose of the 'transform' property in CSS?",
+    "options": [
+      "To apply 3D effects to an element",
+      "To rotate, scale, or skew an element",
+      "To transform text characters",
+      "To convert colors in an element"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "17. How can you include external CSS in an HTML document?",
+    "options": [
+      "<style src='styles.css'>",
+      "<link rel='stylesheet' href='styles.css'>",
+      "<css>styles.css</css>",
+      "<script type='text/css' src='styles.css'></script>"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "18. True or False: CSS Flexbox is mainly designed for one-dimensional layouts.",
+    "options": ["True", "False"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "19. What does the CSS property 'opacity' control?",
+    "options": [
+      "Element's size",
+      "Element's visibility",
+      "Element's position",
+      "Element's color"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "20. Which CSS pseudo-class selects the first child element of its parent?",
+    "options": [
+      ":first-child",
+      ":first-element",
+      ":first-of-type",
+      ":child-first"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "21. Which of the following CSS properties is used to set the text color?",
+    "options": ["color", "text-color", "font-color", "foreground-color"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "22. True or False: CSS variables are also known as custom properties.",
+    "options": ["True", "False"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "23. What does the 'box-sizing' property in CSS control?",
+    "options": [
+      "The size of the text box",
+      "The sizing of an element's box model",
+      "The spacing between elements",
+      "The margin of an element"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "24. How can you center an element horizontally in CSS?",
+    "options": [
+      "text-align: center;",
+      "margin: auto;",
+      "horizontal-align: center;",
+      "float: center;"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "25. What does the 'transition' property in CSS do?",
+    "options": [
+      "Creates a smooth transition effect for an element's property changes",
+      "Moves an element from left to right",
+      "Changes the font of an element",
+      "Applies a transition color to an element"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "26. True or False: The 'position: absolute;' property removes an element from the normal document flow.",
+    "options": ["True", "False"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "27. What is the purpose of the CSS property 'display: inline-block;'?",
+    "options": [
+      "To display an element as an inline-level block container",
+      "To hide an element from the display",
+      "To display an element as a block-level inline container",
+      "To make an element's text bold"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "28. Which CSS property is used to add shadows to an element?",
+    "options": ["box-shadow", "element-shadow", "text-shadow", "shadow-effect"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "29. How can you select all links inside a div with the class 'container' using CSS?",
+    "options": [
+      ".container a",
+      "div a .container",
+      "div.container a",
+      "a .container div"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "30. True or False: The 'line-break' property in CSS is used to control where a line will break.",
+    "options": ["True", "False"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "31. What does the 'Z-index' property in CSS control?",
+    "options": [
+      "The vertical position of an element",
+      "The horizontal position of an element",
+      "The stacking order of elements",
+      "The zoom level of an element"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "32. How can you make a list of horizontal navigation items using CSS?",
+    "options": [
+      "list-style: horizontal;",
+      "display: block;",
+      "float: left;",
+      "text-align: justify;"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "33. True or False: The 'rgba()' value in CSS is used to define a color using red, green, blue, and alpha (transparency) values.",
+    "options": ["True", "False"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "34. What is the purpose of the 'max-width' property in CSS?",
+    "options": [
+      "To set the maximum height of an element",
+      "To set the maximum width of an element",
+      "To set the minimum width of an element",
+      "To set the minimum height of an element"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "35. Which CSS property is used to control the space between the border and the content of an element?",
+    "options": ["margin", "padding", "border-spacing", "spacing"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "36. How can you apply a background image to an element in CSS?",
+    "options": [
+      "background-image: url('image.jpg');",
+      "image: background('image.jpg');",
+      "set-background: image('image.jpg');",
+      "background: set-image('image.jpg');"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "37. True or False: The 'em' unit in CSS is relative to the font-size of the closest parent element.",
+    "options": ["True", "False"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "38. What is the purpose of the 'clear' property in CSS?",
+    "options": [
+      "To set the transparency of an element",
+      "To clear floated elements and force an element to be placed below them",
+      "To set the color of text",
+      "To clear the text of an element"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "39. Which CSS pseudo-class is used to select and style the first child element of another element?",
+    "options": [
+      ":first-child",
+      ":first-element",
+      ":first-of-type",
+      ":child-first"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "40. True or False: The 'transform' property in CSS is used to rotate, scale, or skew an element.",
+    "options": ["True", "False"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "41. What does the CSS property 'box-sizing: border-box;' do?",
+    "options": [
+      "Includes padding and border in the element's total width and height",
+      "Excludes padding and border from the element's total width and height",
+      "Applies a border to the box",
+      "Increases the width and height of the box"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "42. True or False: The 'transition' property in CSS is used to create smooth transitions between different property values.",
+    "options": ["True", "False"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "43. In CSS, what does the 'nth-child()' pseudo-class selector do?",
+    "options": [
+      "Selects all elements that are the nth child of their parent",
+      "Selects only the first child of an element",
+      "Selects elements based on their text content",
+      "Selects the last child of an element"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "44. How can you center an element horizontally in CSS?",
+    "options": [
+      "text-align: center;",
+      "margin: auto;",
+      "horizontal-align: center;",
+      "center: horizontal;"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "45. What is the purpose of the CSS property 'opacity'?",
+    "options": [
+      "Controls the transparency of an element",
+      "Sets the color of an element",
+      "Defines the space between the border and content",
+      "Adjusts the size of an element"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "46. True or False: The 'position: fixed;' property in CSS positions an element relative to its closest positioned ancestor.",
+    "options": ["True", "False"],
+    "correctAnswer": [1],
+    "isTrueFalse": true
+  },
+  {
+    "question": "47. What does the CSS property 'word-wrap' control?",
+    "options": [
+      "Wraps text to the next line if it's too long to fit within the container",
+      "Controls the spacing between words",
+      "Changes the font style of text",
+      "Prevents text from wrapping to the next line"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "48. How can you create a responsive design in CSS?",
+    "options": [
+      "Using fixed-width layouts",
+      "Using absolute units like pixels",
+      "Media queries and fluid grids",
+      "Avoiding the 'flex' property"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "49. True or False: The 'display: none;' property in CSS hides an element, and the space it occupies is still reserved.",
+    "options": ["True", "False"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "50. What is the purpose of the CSS 'content' property?",
+    "options": [
+      "Sets the content of an element using text or a URL",
+      "Specifies the content that should be inserted before or after an element",
+      "Defines the content of a pseudo-element",
+      "Controls the visibility of an element"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "51. In CSS, what does the 'overflow: hidden;' property do?",
+    "options": [
+      "Hides the overflow content of an element",
+      "Displays the overflow content outside the element",
+      "Adds a hidden scrollbar to the element",
+      "Expands the element to fit its content"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "52. True or False: The 'flex-direction' property in CSS determines the direction of the flexible items in a flex container.",
+    "options": ["True", "False"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "53. What is the purpose of the 'cursor' property in CSS?",
+    "options": [
+      "Sets the color of the mouse cursor",
+      "Changes the shape of the mouse cursor",
+      "Hides the mouse cursor",
+      "Defines the speed of the mouse cursor"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "54. How can you style alternate rows of a table differently in CSS?",
+    "options": [
+      ":nth-child(odd/even) selector",
+      ":alternate-row selector",
+      ":row(odd/even) selector",
+      ":table-row(odd/even) selector"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "55. True or False: The 'rem' unit in CSS is relative to the root element's font size.",
+    "options": ["True", "False"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "56. What does the CSS property 'text-transform: uppercase;' do?",
+    "options": [
+      "Transforms the text to lowercase",
+      "Transforms the text to uppercase",
+      "Transforms the text to title case",
+      "Transforms the text to sentence case"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "57. How can you make a CSS class that is only applied when printing a page?",
+    "options": [
+      "@media print { ... }",
+      "@media screen { ... }",
+      "@print { ... }",
+      "@screen { ... }"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "58. True or False: The 'border-collapse' property in CSS is used to separate the borders of table cells.",
+    "options": ["True", "False"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "59. What is the purpose of the 'translate()' function in CSS?",
+    "options": [
+      "Changes the color of an element",
+      "Moves the element along the X and Y axis",
+      "Rotates an element",
+      "Scales an element"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "60. Which CSS property is used to control the spacing between individual characters in a text?",
+    "options": [
+      "line-height",
+      "word-spacing",
+      "letter-spacing",
+      "text-spacing"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "61. What is the purpose of the CSS property 'z-index'?",
+    "options": [
+      "Controls the order of stacking elements along the z-axis",
+      "Sets the width of an element",
+      "Defines the space between inline elements",
+      "Specifies the height of an element"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "62. True or False: The 'currentColor' keyword in CSS refers to the current background color of an element.",
+    "options": ["True", "False"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "63. What does the CSS property 'pointer-events: none;' do?",
+    "options": [
+      "Disables the pointer events for an element",
+      "Enables pointer events for an element",
+      "Changes the pointer type",
+      "Hides the pointer on interaction"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "64. How can you create a CSS animation?",
+    "options": [
+      "Using the 'animation' property with keyframes",
+      "Applying the 'animate' class to an element",
+      "Using the 'transition' property",
+      "Setting the 'animate' property in the style attribute"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "65. True or False: The 'max-width' property in CSS sets the maximum width of an element.",
+    "options": ["True", "False"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "66. In CSS, what does the 'visibility: hidden;' property do?",
+    "options": [
+      "Hides an element, and the space it occupies is still reserved",
+      "Hides an element, and the space it occupies collapses",
+      "Makes an element visible",
+      "Changes the opacity of an element"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "67. What is the purpose of the CSS pseudo-element '::before'?",
+    "options": [
+      "Selects the element before the specified element",
+      "Selects the first child of an element",
+      "Inserts content before the content of the selected element",
+      "Selects the parent element"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "68. How can you vertically align text in CSS?",
+    "options": [
+      "vertical-align: middle;",
+      "text-align: center;",
+      "line-height: center;",
+      "align-items: center;"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "69. True or False: The 'outline' property in CSS is used to set the thickness and style of the outline of an element.",
+    "options": ["True", "False"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "70. What is the CSS property 'flex-grow' used for?",
+    "options": [
+      "Specifies the initial size of a flex container",
+      "Controls the size of flex items along the main axis",
+      "Defines the ability for a flex item to grow",
+      "Sets the order of a flex item"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "71. In CSS, what is the 'backface-visibility' property used for?",
+    "options": [
+      "Controls the visibility of the back face of an element",
+      "Specifies the visibility of the front face of an element",
+      "Defines the visibility of child elements",
+      "Sets the visibility of the element's border"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "72. True or False: The 'clip-path' property in CSS is used to define the visible area of an element.",
+    "options": ["True", "False"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "73. What is the purpose of the CSS property 'object-fit'?",
+    "options": [
+      "Defines how an element's content should be resized to fit its container",
+      "Sets the size of an object in pixels",
+      "Controls the alignment of inline elements",
+      "Adjusts the opacity of an element"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "74. How can you style a hyperlink that is being hovered over in CSS?",
+    "options": [
+      "a:link { ... }",
+      "a:hover { ... }",
+      "a:active { ... }",
+      "a:focus { ... }"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "75. True or False: The 'filter' property in CSS is used to apply graphical effects like blur or color adjustment to an element.",
+    "options": ["True", "False"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "76. What does the CSS property 'justify-content' do?",
+    "options": [
+      "Aligns the items inside a flexible container",
+      "Justifies the content of a block element",
+      "Adjusts the spacing between lines of text",
+      "Centers an element horizontally"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "77. In CSS, what is the 'currentColor' keyword used for?",
+    "options": [
+      "Refers to the current font color of an element",
+      "Sets the background color of an element",
+      "Specifies the current color of the viewport",
+      "Matches the color of the element on which it's used"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "78. How can you add a shadow to text in CSS?",
+    "options": [
+      "text-shadow: 2px 2px 2px #000;",
+      "box-shadow: 2px 2px 2px #000;",
+      "shadow: 2px 2px 2px #000;",
+      "font-shadow: 2px 2px 2px #000;"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "79. True or False: The 'white-space' property in CSS controls the visibility of white spaces in an element.",
+    "options": ["True", "False"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "80. What is the purpose of the CSS property 'mix-blend-mode'?",
+    "options": [
+      "Defines the blending mode between an element and its background",
+      "Mixes the colors of adjacent elements",
+      "Blends the content of two elements",
+      "Sets the opacity of an element"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "81. How can you hide an element visually but keep it accessible to screen readers?",
+    "options": [
+      "opacity: 0;",
+      "visibility: hidden;",
+      "display: none;",
+      "position: absolute; left: -9999px;"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "82. True or False: The 'line-height' property in CSS is used to set the spacing between lines of text.",
+    "options": ["True", "False"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "83. What does the CSS property 'box-decoration-break' control?",
+    "options": [
+      "Specifies the style of the box's border",
+      "Breaks the box's content, padding, and border individually",
+      "Changes the order of the box model",
+      "Defines the space between inline elements"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "84. How can you create a gradient background in CSS?",
+    "options": [
+      "background-color: linear-gradient(...);",
+      "background: gradient(...);",
+      "color: gradient(...);",
+      "gradient: background(...);"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "85. In CSS, what does the 'font-weight' property control?",
+    "options": [
+      "Sets the thickness of the text characters",
+      "Defines the style of the font",
+      "Specifies the size of the font",
+      "Controls the boldness of the font"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "86. True or False: The 'content-visibility' property in CSS is used to control when an element's content is rendered.",
+    "options": ["True", "False"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "87. What is the CSS property 'column-count' used for?",
+    "options": [
+      "Sets the number of columns an element should be divided into",
+      "Counts the number of columns in a table",
+      "Controls the spacing between columns",
+      "Specifies the width of columns in a grid layout"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "88. How can you create a responsive navigation menu in CSS?",
+    "options": [
+      "Using fixed-width navigation links",
+      "Applying media queries to hide the navigation on small screens",
+      "Avoiding the 'flex' property",
+      "Using inline styles for navigation items"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "89. True or False: The 'currentColor' keyword in CSS refers to the current font color of an element.",
+    "options": ["True", "False"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "90. What does the CSS property 'text-overflow' control?",
+    "options": [
+      "Adjusts the spacing between lines of text",
+      "Truncates text that is too long to fit within an element",
+      "Defines the visibility of white spaces",
+      "Specifies the style of the text"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "91. In CSS, what is the 'visibility' property used for?",
+    "options": [
+      "Specifies whether an element is visible or hidden",
+      "Controls the opacity of an element",
+      "Sets the visibility of child elements",
+      "Hides an element but keeps the space it occupies"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "92. True or False: The 'transition' property in CSS is used to create smooth transitions between different property values.",
+    "options": ["True", "False"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "93. How can you select all paragraphs with a class of 'intro' in CSS?",
+    "options": [
+      "p.intro { ... }",
+      "paragraph.intro { ... }",
+      ".intro p { ... }",
+      "intro p { ... }"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "94. What is the purpose of the 'pointer-events' property in CSS?",
+    "options": [
+      "Specifies the size of the mouse pointer",
+      "Determines the color of the mouse pointer",
+      "Controls whether an element can be the target for user events",
+      "Sets the speed of the mouse pointer"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "95. True or False: The 'justify-content' property in CSS aligns the items inside a flexible container.",
+    "options": ["True", "False"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "96. What is the purpose of the 'will-change' property in CSS?",
+    "options": [
+      "Specifies the color of the element",
+      "Hints to the browser that an element is likely to change",
+      "Sets the duration of an animation",
+      "Controls the visibility of an element"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "97. How can you add rounded corners to an element in CSS?",
+    "options": [
+      "border-curve: rounded;",
+      "corner-style: round;",
+      "border-radius: 10px;",
+      "rounded: 10px;"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "98. True or False: The 'currentColor' keyword in CSS refers to the current text color of an element.",
+    "options": ["True", "False"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "99. What does the CSS property 'object-position' control?",
+    "options": [
+      "Defines the position of a replaced element's content",
+      "Sets the position of a flex container",
+      "Controls the spacing between columns",
+      "Specifies the alignment of inline elements"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "100. How can you select the first child element of a parent in CSS?",
+    "options": [
+      "first-child { ... }",
+      "first-element { ... }",
+      "parent > :first-child { ... }",
+      ":first-child { ... }"
+    ],
+    "correctAnswer": 3
+  }
+]
