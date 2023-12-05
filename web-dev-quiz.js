@@ -160,7 +160,7 @@ function askQuestions(category) {
     console.clear();
   }
 }
-
+// this is to work
 // ***********************************************************  AddQuestion
 function addQuestion() {
   console.clear();
