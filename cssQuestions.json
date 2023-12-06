@@ -11,12 +11,20 @@
   },
   {
     "question": "2. Which CSS property is used to change the text color of an element?",
-    "options": ["color", "text-color", "font-color", "style-color"],
+    "options": [
+      "color",
+      "text-color",
+      "font-color",
+      "style-color"
+    ],
     "correctAnswer": 0
   },
   {
     "question": "3. True or False: Inline styles have the highest specificity in CSS.",
-    "options": ["True", "False"],
+    "options": [
+      "True",
+      "False"
+    ],
     "correctAnswer": 0
   },
   {
@@ -31,17 +39,30 @@
   },
   {
     "question": "5. Which CSS selector is used to select all elements with a specific class?",
-    "options": [".class", "#class", ":class", "class()"],
+    "options": [
+      ".class",
+      "#class",
+      ":class",
+      "class()"
+    ],
     "correctAnswer": 0
   },
   {
     "question": "6. True or False: The 'position: relative;' CSS property positions an element relative to its normal position.",
-    "options": ["True", "False"],
+    "options": [
+      "True",
+      "False"
+    ],
     "correctAnswer": 0
   },
   {
     "question": "7. What is the CSS property used for controlling the overflow of content in a box?",
-    "options": ["overflow", "overflood", "overflow-style", "content-overflow"],
+    "options": [
+      "overflow",
+      "overflood",
+      "overflow-style",
+      "content-overflow"
+    ],
     "correctAnswer": 0
   },
   {
@@ -56,12 +77,20 @@
   },
   {
     "question": "9. True or False: CSS Grid is a one-dimensional layout system.",
-    "options": ["True", "False"],
+    "options": [
+      "True",
+      "False"
+    ],
     "correctAnswer": 1
   },
   {
     "question": "10. Which CSS property is used to add shadows to text?",
-    "options": ["text-shadow", "box-shadow", "shadow-effect", "font-shadow"],
+    "options": [
+      "text-shadow",
+      "box-shadow",
+      "shadow-effect",
+      "font-shadow"
+    ],
     "correctAnswer": 0
   },
   {
@@ -76,7 +105,10 @@
   },
   {
     "question": "12. True or False: CSS Grid is primarily designed for two-dimensional layouts.",
-    "options": ["True", "False"],
+    "options": [
+      "True",
+      "False"
+    ],
     "correctAnswer": 0
   },
   {
@@ -91,12 +123,20 @@
   },
   {
     "question": "14. Which CSS property is used for changing the spacing between lines of text?",
-    "options": ["line-height", "letter-spacing", "word-spacing", "spacing"],
+    "options": [
+      "line-height",
+      "letter-spacing",
+      "word-spacing",
+      "spacing"
+    ],
     "correctAnswer": 0
   },
   {
     "question": "15. True or False: The 'em' unit in CSS is relative to the font-size of the closest parent element.",
-    "options": ["True", "False"],
+    "options": [
+      "True",
+      "False"
+    ],
     "correctAnswer": 0
   },
   {
@@ -121,7 +161,10 @@
   },
   {
     "question": "18. True or False: CSS Flexbox is mainly designed for one-dimensional layouts.",
-    "options": ["True", "False"],
+    "options": [
+      "True",
+      "False"
+    ],
     "correctAnswer": 1
   },
   {
@@ -146,12 +189,20 @@
   },
   {
     "question": "21. Which of the following CSS properties is used to set the text color?",
-    "options": ["color", "text-color", "font-color", "foreground-color"],
+    "options": [
+      "color",
+      "text-color",
+      "font-color",
+      "foreground-color"
+    ],
     "correctAnswer": 0
   },
   {
     "question": "22. True or False: CSS variables are also known as custom properties.",
-    "options": ["True", "False"],
+    "options": [
+      "True",
+      "False"
+    ],
     "correctAnswer": 0
   },
   {
@@ -186,7 +237,10 @@
   },
   {
     "question": "26. True or False: The 'position: absolute;' property removes an element from the normal document flow.",
-    "options": ["True", "False"],
+    "options": [
+      "True",
+      "False"
+    ],
     "correctAnswer": 0
   },
   {
@@ -201,7 +255,12 @@
   },
   {
     "question": "28. Which CSS property is used to add shadows to an element?",
-    "options": ["box-shadow", "element-shadow", "text-shadow", "shadow-effect"],
+    "options": [
+      "box-shadow",
+      "element-shadow",
+      "text-shadow",
+      "shadow-effect"
+    ],
     "correctAnswer": 0
   },
   {
@@ -216,7 +275,10 @@
   },
   {
     "question": "30. True or False: The 'line-break' property in CSS is used to control where a line will break.",
-    "options": ["True", "False"],
+    "options": [
+      "True",
+      "False"
+    ],
     "correctAnswer": 1
   },
   {
@@ -241,7 +303,10 @@
   },
   {
     "question": "33. True or False: The 'rgba()' value in CSS is used to define a color using red, green, blue, and alpha (transparency) values.",
-    "options": ["True", "False"],
+    "options": [
+      "True",
+      "False"
+    ],
     "correctAnswer": 0
   },
   {
@@ -256,7 +321,12 @@
   },
   {
     "question": "35. Which CSS property is used to control the space between the border and the content of an element?",
-    "options": ["margin", "padding", "border-spacing", "spacing"],
+    "options": [
+      "margin",
+      "padding",
+      "border-spacing",
+      "spacing"
+    ],
     "correctAnswer": 1
   },
   {
@@ -271,7 +341,10 @@
   },
   {
     "question": "37. True or False: The 'em' unit in CSS is relative to the font-size of the closest parent element.",
-    "options": ["True", "False"],
+    "options": [
+      "True",
+      "False"
+    ],
     "correctAnswer": 0
   },
   {
@@ -296,7 +369,10 @@
   },
   {
     "question": "40. True or False: The 'transform' property in CSS is used to rotate, scale, or skew an element.",
-    "options": ["True", "False"],
+    "options": [
+      "True",
+      "False"
+    ],
     "correctAnswer": 0
   },
   {
@@ -311,7 +387,10 @@
   },
   {
     "question": "42. True or False: The 'transition' property in CSS is used to create smooth transitions between different property values.",
-    "options": ["True", "False"],
+    "options": [
+      "True",
+      "False"
+    ],
     "correctAnswer": 0
   },
   {
@@ -346,8 +425,13 @@
   },
   {
     "question": "46. True or False: The 'position: fixed;' property in CSS positions an element relative to its closest positioned ancestor.",
-    "options": ["True", "False"],
-    "correctAnswer": [1],
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": [
+      1
+    ],
     "isTrueFalse": true
   },
   {
@@ -372,7 +456,10 @@
   },
   {
     "question": "49. True or False: The 'display: none;' property in CSS hides an element, and the space it occupies is still reserved.",
-    "options": ["True", "False"],
+    "options": [
+      "True",
+      "False"
+    ],
     "correctAnswer": 0
   },
   {
@@ -397,7 +484,10 @@
   },
   {
     "question": "52. True or False: The 'flex-direction' property in CSS determines the direction of the flexible items in a flex container.",
-    "options": ["True", "False"],
+    "options": [
+      "True",
+      "False"
+    ],
     "correctAnswer": 0
   },
   {
@@ -422,7 +512,10 @@
   },
   {
     "question": "55. True or False: The 'rem' unit in CSS is relative to the root element's font size.",
-    "options": ["True", "False"],
+    "options": [
+      "True",
+      "False"
+    ],
     "correctAnswer": 0
   },
   {
@@ -447,7 +540,10 @@
   },
   {
     "question": "58. True or False: The 'border-collapse' property in CSS is used to separate the borders of table cells.",
-    "options": ["True", "False"],
+    "options": [
+      "True",
+      "False"
+    ],
     "correctAnswer": 1
   },
   {
@@ -482,7 +578,10 @@
   },
   {
     "question": "62. True or False: The 'currentColor' keyword in CSS refers to the current background color of an element.",
-    "options": ["True", "False"],
+    "options": [
+      "True",
+      "False"
+    ],
     "correctAnswer": 1
   },
   {
@@ -507,7 +606,10 @@
   },
   {
     "question": "65. True or False: The 'max-width' property in CSS sets the maximum width of an element.",
-    "options": ["True", "False"],
+    "options": [
+      "True",
+      "False"
+    ],
     "correctAnswer": 0
   },
   {
@@ -542,7 +644,10 @@
   },
   {
     "question": "69. True or False: The 'outline' property in CSS is used to set the thickness and style of the outline of an element.",
-    "options": ["True", "False"],
+    "options": [
+      "True",
+      "False"
+    ],
     "correctAnswer": 0
   },
   {
@@ -567,7 +672,10 @@
   },
   {
     "question": "72. True or False: The 'clip-path' property in CSS is used to define the visible area of an element.",
-    "options": ["True", "False"],
+    "options": [
+      "True",
+      "False"
+    ],
     "correctAnswer": 0
   },
   {
@@ -592,7 +700,10 @@
   },
   {
     "question": "75. True or False: The 'filter' property in CSS is used to apply graphical effects like blur or color adjustment to an element.",
-    "options": ["True", "False"],
+    "options": [
+      "True",
+      "False"
+    ],
     "correctAnswer": 0
   },
   {
@@ -627,7 +738,10 @@
   },
   {
     "question": "79. True or False: The 'white-space' property in CSS controls the visibility of white spaces in an element.",
-    "options": ["True", "False"],
+    "options": [
+      "True",
+      "False"
+    ],
     "correctAnswer": 0
   },
   {
@@ -652,7 +766,10 @@
   },
   {
     "question": "82. True or False: The 'line-height' property in CSS is used to set the spacing between lines of text.",
-    "options": ["True", "False"],
+    "options": [
+      "True",
+      "False"
+    ],
     "correctAnswer": 0
   },
   {
@@ -687,7 +804,10 @@
   },
   {
     "question": "86. True or False: The 'content-visibility' property in CSS is used to control when an element's content is rendered.",
-    "options": ["True", "False"],
+    "options": [
+      "True",
+      "False"
+    ],
     "correctAnswer": 0
   },
   {
@@ -712,7 +832,10 @@
   },
   {
     "question": "89. True or False: The 'currentColor' keyword in CSS refers to the current font color of an element.",
-    "options": ["True", "False"],
+    "options": [
+      "True",
+      "False"
+    ],
     "correctAnswer": 1
   },
   {
@@ -737,7 +860,10 @@
   },
   {
     "question": "92. True or False: The 'transition' property in CSS is used to create smooth transitions between different property values.",
-    "options": ["True", "False"],
+    "options": [
+      "True",
+      "False"
+    ],
     "correctAnswer": 0
   },
   {
@@ -762,7 +888,10 @@
   },
   {
     "question": "95. True or False: The 'justify-content' property in CSS aligns the items inside a flexible container.",
-    "options": ["True", "False"],
+    "options": [
+      "True",
+      "False"
+    ],
     "correctAnswer": 0
   },
   {
@@ -787,7 +916,10 @@
   },
   {
     "question": "98. True or False: The 'currentColor' keyword in CSS refers to the current text color of an element.",
-    "options": ["True", "False"],
+    "options": [
+      "True",
+      "False"
+    ],
     "correctAnswer": 1
   },
   {
