@@ -1,13 +1,10 @@
 import readlineSync from "readline-sync";
 import fs from "fs";
+import { displayUserMenu } from "./web-dev-quiz.js";
 
 const categories = ["htmlQuestions", "cssQuestions", "javaScriptQuestions"];
 
-import displayMainMenu from "./main-admin-user.js";
-import displayUserMenu from "./main-admin-user.js"
-
-
-export default function askQuestions(category) {
+function askQuestions(category) {
   let totalQuestions = 0;
   let score = 0;
 
@@ -95,20 +92,8 @@ export default function askQuestions(category) {
       // console.log("Exiting the quiz. Goodbye!");
       displayUserMenu();
     }
+
+    console.clear();
   }
 }
-
-
-//   *****************************************    Main logic
-displayMainMenu();
-const roleChoice = readlineSync.question("Enter your choice: ");
-
-if (roleChoice === "1") {
-  displayAdminMenu();
-} else if (roleChoice === "2") {
-  displayUserMenu();
-} else if (roleChoice === "0") {
-  console.log("Exiting...");
-} else {
-  console.log("Invalid choice. Please try again.");
-}
+export default askQuestions;

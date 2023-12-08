@@ -1,16 +1,28 @@
-[  {
+[
+  {
     "question": "1. Is JavaScript a compiled language?",
-    "options": ["True", "False"],
+    "options": [
+      "True",
+      "False"
+    ],
     "correctAnswer": 1
   },
   {
     "question": "2. Is JavaScript a case-sensitive language?",
-    "options": ["True", "False"],
+    "options": [
+      "True",
+      "False"
+    ],
     "correctAnswer": 0
   },
   {
     "question": "3. Which keyword is used to declare a variable in JavaScript?",
-    "options": ["var", "variable", "v", "declare"],
+    "options": [
+      "var",
+      "variable",
+      "v",
+      "declare"
+    ],
     "correctAnswer": 0
   },
   {
@@ -35,7 +47,12 @@
   },
   {
     "question": "6. Which of the following is a falsy value in JavaScript?",
-    "options": ["0", "null", "undefined", "All of the above"],
+    "options": [
+      "0",
+      "null",
+      "undefined",
+      "All of the above"
+    ],
     "correctAnswer": 3
   },
   {
@@ -50,7 +67,12 @@
   },
   {
     "question": "8. Which function is used to output data in the console in JavaScript?",
-    "options": ["log()", "print()", "console()", "write()"],
+    "options": [
+      "log()",
+      "print()",
+      "console()",
+      "write()"
+    ],
     "correctAnswer": 0
   },
   {
@@ -85,7 +107,12 @@
   },
   {
     "question": "12. Which keyword is used to declare a constant variable in JavaScript?",
-    "options": ["var", "let", "const", "constant"],
+    "options": [
+      "var",
+      "let",
+      "const",
+      "constant"
+    ],
     "correctAnswer": 2
   },
   {
@@ -100,7 +127,12 @@
   },
   {
     "question": "14. Which of the following is NOT a valid data type in JavaScript?",
-    "options": ["String", "Boolean", "Float", "Character"],
+    "options": [
+      "String",
+      "Boolean",
+      "Float",
+      "Character"
+    ],
     "correctAnswer": 3
   },
   {
@@ -484,487 +516,493 @@
     "correctAnswer": 0
   },
   {
-      "question": "53. What is the purpose of the 'typeof' operator in JavaScript?",
-      "options": [
-        "To check the type of a variable or expression",
-        "To create a new variable",
-        "To determine the size of a variable",
-        "To concatenate two strings"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "54. What is the purpose of the 'let' keyword in JavaScript?",
-      "options": [
-        "To declare a variable with block scope",
-        "To declare a constant variable",
-        "To declare a global variable",
-        "To declare a variable with function scope"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "55. What is the purpose of the 'Event.preventDefault()' method in JavaScript?",
-      "options": [
-        "To stop the propagation of an event",
-        "To prevent the default action associated with an event",
-        "To pause the execution of an event",
-        "To check if an event has been defined"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "56. What is the purpose of the 'Object.keys()' method in JavaScript?",
-      "options": [
-        "To retrieve the keys of an object as an array",
-        "To retrieve the values of an object as an array",
-        "To retrieve both keys and values of an object as an array",
-        "To check if an object has a specific key"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "57. What is the purpose of the 'localStorage' object in JavaScript?",
-      "options": [
-        "To store data that has no expiration time",
-        "To store data with a short expiration time",
-        "To store data on the server",
-        "To store data in a temporary cache"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "58. How do you check if an array includes a specific value in JavaScript?",
-      "options": [
-        "Using the 'contains' method",
-        "Using the 'indexOf' method",
-        "Using the 'includes' method",
-        "Both B and C"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "59. What is the purpose of the 'Array.prototype.map()' method in JavaScript?",
-      "options": [
-        "To create a new array with the results of calling a provided function on every element in the array",
-        "To modify the original array directly",
-        "To filter elements in an array",
-        "To check if all elements in an array pass a test"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "60. What is the purpose of the 'querySelector()' method in JavaScript?",
-      "options": [
-        "To select the first element that matches a specified CSS selector in the document",
-        "To select all elements that match a specified CSS selector in the document",
-        "To select the parent element of a specified element",
-        "To select the next sibling of a specified element"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "61. What is the purpose of the 'try...catch' statement in JavaScript?",
-      "options": [
-        "To handle asynchronous operations",
-        "To catch errors and handle them gracefully",
-        "To define a block of code to be executed if a specified error occurs",
-        "To create a loop with error checking"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "62. How do you convert a JSON string to a JavaScript object?",
-      "options": [
-        "JSON.parse()",
-        "JSON.stringify()",
-        "parseJSON()",
-        "stringifyJSON()"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "63. What is the purpose of the 'Array.prototype.reduce()' method in JavaScript?",
-      "options": [
-        "To create a new array with the results of calling a provided function on every element in the array",
-        "To modify the original array directly",
-        "To combine all elements in an array into a single value",
-        "To check if all elements in an array pass a test"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "64. In JavaScript, what does the 'super' keyword refer to?",
-      "options": [
-        "The parent class",
-        "The current class",
-        "The child class",
-        "A reserved keyword with no specific reference"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "65. What is the purpose of the 'async' keyword in JavaScript?",
-      "options": [
-        "To declare a function as asynchronous",
-        "To indicate that a variable can be modified",
-        "To define a function that returns a promise",
-        "To create a loop with asynchronous operations"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "66. How do you define a default parameter in a JavaScript function?",
-      "options": [
-        "Using the 'default' keyword",
-        "By assigning a value in the function's parameter list",
-        "Using the 'setDefaultValue()' function",
-        "Default parameters are not allowed in JavaScript"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "67. What is the purpose of the 'Object.freeze()' method in JavaScript?",
-      "options": [
-        "To freeze an object and prevent any changes to it",
-        "To remove properties from an object",
-        "To freeze the entire JavaScript environment",
-        "To create a new object with frozen properties"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "68. What is the purpose of the 'Object.create()' method in JavaScript?",
-      "options": [
-        "To create a new object with the specified prototype object and properties",
-        "To create an empty object",
-        "To create a copy of an existing object",
-        "To create an object with predefined values"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "69. What is the purpose of the 'Promise' object in JavaScript?",
-      "options": [
-        "To handle asynchronous operations and represent a value that might be available now, or in the future, or never",
-        "To create promises and enforce asynchronous behavior",
-        "To prevent promises in the code",
-        "To create conditional statements"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "70. What is the purpose of the 'Array.prototype.every()' method in JavaScript?",
-      "options": [
-        "To create a new array with the results of calling a provided function on every element in the array",
-        "To modify the original array directly",
-        "To check if all elements in an array pass a test",
-        "To filter elements in an array"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "71. What is the purpose of the 'Array.prototype.some()' method in JavaScript?",
-      "options": [
-        "To create a new array with the results of calling a provided function on every element in the array",
-        "To modify the original array directly",
-        "To check if some elements in an array pass a test",
-        "To filter elements in an array"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "72. How do you handle errors in a 'Promise' in JavaScript?",
-      "options": [
-        "Using the 'reject()' method",
-        "Using the 'handleError()' function",
-        "Using the 'catch()' method",
-        "By directly modifying the 'error' property of the 'Promise' object"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "73. What is the purpose of the 'Object.keys()' method in JavaScript?",
-      "options": [
-        "To retrieve the keys of an object as an array",
-        "To retrieve the values of an object as an array",
-        "To retrieve both keys and values of an object as an array",
-        "To check if an object has a specific key"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "74. How can you convert a NodeList to an array in JavaScript?",
-      "options": [
-        "Using a loop",
-        "Using the 'Array.from()' method",
-        "Both A and B",
-        "There is no way to convert a NodeList to an array"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "75. What is the purpose of the 'Event delegation' in JavaScript?",
-      "options": [
-        "To delegate events to specific elements",
-        "To handle events at the root level of the DOM and use event bubbling",
-        "To prevent event propagation",
-        "To handle events only on leaf nodes of the DOM"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "76. What is the purpose of the 'querySelector()' method in JavaScript?",
-      "options": [
-        "To select the first element that matches a specified CSS selector in the document",
-        "To select all elements that match a specified CSS selector in the document",
-        "To select the parent element of a specified element",
-        "To select the next sibling of a specified element"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "77. What is the purpose of the 'localStorage' object in JavaScript?",
-      "options": [
-        "To store data that has no expiration time",
-        "To store data with a short expiration time",
-        "To store data on the server",
-        "To store data in a temporary cache"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "78. What is the purpose of the 'sessionStorage' object in JavaScript?",
-      "options": [
-        "To store data that has no expiration time",
-        "To store data with a short expiration time",
-        "To store data on the server",
-        "To store data in a temporary cache"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "79. How do you create a new object with the same prototype as an existing object in JavaScript?",
-      "options": [
-        "Using the 'Object.create()' method",
-        "Using the 'Object.copy()' method",
-        "Using the 'newObject()' function",
-        "By directly assigning the prototype of the existing object"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "80. What is the purpose of the 'Array.prototype.find()' method in JavaScript?",
-      "options": [
-        "To create a new array with the results of calling a provided function on every element in the array",
-        "To modify the original array directly",
-        "To find the first element in an array that satisfies a provided testing function",
-        "To check if all elements in an array pass a test"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "81. In JavaScript, what is a 'Web Worker'?",
-      "options": [
-        "A dedicated background thread for running scripts in parallel",
-        "A worker ant specifically trained for web development",
-        "A browser feature for preventing cross-site scripting",
-        "A type of JavaScript function"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "82. What is the purpose of the 'typeof' operator in JavaScript?",
-      "options": [
-        "To check the type of a variable or expression",
-        "To create a new variable",
-        "To determine the size of a variable",
-        "To concatenate two strings"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "83. What is the purpose of the 'let' keyword in JavaScript?",
-      "options": [
-        "To declare a variable with block scope",
-        "To declare a constant variable",
-        "To declare a global variable",
-        "To declare a variable with function scope"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "84. What is the purpose of the 'Event.preventDefault()' method in JavaScript?",
-      "options": [
-        "To stop the propagation of an event",
-        "To prevent the default action associated with an event",
-        "To pause the execution of an event",
-        "To check if an event has been defined"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "85. What is the purpose of the 'Object.keys()' method in JavaScript?",
-      "options": [
-        "To retrieve the keys of an object as an array",
-        "To retrieve the values of an object as an array",
-        "To retrieve both keys and values of an object as an array",
-        "To check if an object has a specific key"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "86. What is the purpose of the 'localStorage' object in JavaScript?",
-      "options": [
-        "To store data that has no expiration time",
-        "To store data with a short expiration time",
-        "To store data on the server",
-        "To store data in a temporary cache"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "87. How do you check if an array includes a specific value in JavaScript?",
-      "options": [
-        "Using the 'contains' method",
-        "Using the 'indexOf' method",
-        "Using the 'includes' method",
-        "Both B and C"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "question": "88. What is the purpose of the 'Array.prototype.map()' method in JavaScript?",
-      "options": [
-        "To create a new array with the results of calling a provided function on every element in the array",
-        "To modify the original array directly",
-        "To filter elements in an array",
-        "To check if all elements in an array pass a test"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "89. What is the purpose of the 'querySelector()' method in JavaScript?",
-      "options": [
-        "To select the first element that matches a specified CSS selector in the document",
-        "To select all elements that match a specified CSS selector in the document",
-        "To select the parent element of a specified element",
-        "To select the next sibling of a specified element"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "90. What is the purpose of the 'try...catch' statement in JavaScript?",
-      "options": [
-        "To handle asynchronous operations",
-        "To catch errors and handle them gracefully",
-        "To define a block of code to be executed if a specified error occurs",
-        "To create a loop with error checking"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "91. How do you convert a JSON string to a JavaScript object?",
-      "options": [
-        "JSON.parse()",
-        "JSON.stringify()",
-        "parseJSON()",
-        "stringifyJSON()"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "92. What is the purpose of the 'Array.prototype.reduce()' method in JavaScript?",
-      "options": [
-        "To create a new array with the results of calling a provided function on every element in the array",
-        "To modify the original array directly",
-        "To combine all elements in an array into a single value",
-        "To check if all elements in an array pass a test"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "93. In JavaScript, what does the 'super' keyword refer to?",
-      "options": [
-        "The parent class",
-        "The current class",
-        "The child class",
-        "A reserved keyword with no specific reference"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "94. What is the purpose of the 'async' keyword in JavaScript?",
-      "options": [
-        "To declare a function as asynchronous",
-        "To indicate that a variable can be modified",
-        "To define a function that returns a promise",
-        "To create a loop with asynchronous operations"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "95. How do you define a default parameter in a JavaScript function?",
-      "options": [
-        "Using the 'default' keyword",
-        "By assigning a value in the function's parameter list",
-        "Using the 'setDefaultValue()' function",
-        "Default parameters are not allowed in JavaScript"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "question": "96. What is the purpose of the 'Object.freeze()' method in JavaScript?",
-      "options": [
-        "To freeze an object and prevent any changes to it",
-        "To remove properties from an object",
-        "To freeze the entire JavaScript environment",
-        "To create a new object with frozen properties"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "97. What is the purpose of the 'Object.create()' method in JavaScript?",
-      "options": [
-        "To create a new object with the specified prototype object and properties",
-        "To create an empty object",
-        "To create a copy of an existing object",
-        "To create an object with predefined values"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "98. What is the purpose of the 'Promise' object in JavaScript?",
-      "options": [
-        "To handle asynchronous operations and represent a value that might be available now, or in the future, or never",
-        "To create promises and enforce asynchronous behavior",
-        "To prevent promises in the code",
-        "To create conditional statements"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "question": "99. What is the purpose of the 'Array.prototype.every()' method in JavaScript?",
-      "options": [
-        "To create a new array with the results of calling a provided function on every element in the array",
-        "To modify the original array directly",
-        "To check if all elements in an array pass a test",
-        "To filter elements in an array"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "question": "100. What is the purpose of the 'Array.prototype.some()' method in JavaScript?",
-      "options": [
-        "To create a new array with the results of calling a provided function on every element in the array",
-        "To modify the original array directly",
-        "To check if some elements in an array pass a test",
-        "To filter elements in an array"
-      ],
-      "correctAnswer": 2
-    }
-  ]
-  
-  
-
-
+    "question": "53. What is the purpose of the 'typeof' operator in JavaScript?",
+    "options": [
+      "To check the type of a variable or expression",
+      "To create a new variable",
+      "To determine the size of a variable",
+      "To concatenate two strings"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "54. What is the purpose of the 'let' keyword in JavaScript?",
+    "options": [
+      "To declare a variable with block scope",
+      "To declare a constant variable",
+      "To declare a global variable",
+      "To declare a variable with function scope"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "55. What is the purpose of the 'Event.preventDefault()' method in JavaScript?",
+    "options": [
+      "To stop the propagation of an event",
+      "To prevent the default action associated with an event",
+      "To pause the execution of an event",
+      "To check if an event has been defined"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "56. What is the purpose of the 'Object.keys()' method in JavaScript?",
+    "options": [
+      "To retrieve the keys of an object as an array",
+      "To retrieve the values of an object as an array",
+      "To retrieve both keys and values of an object as an array",
+      "To check if an object has a specific key"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "57. What is the purpose of the 'localStorage' object in JavaScript?",
+    "options": [
+      "To store data that has no expiration time",
+      "To store data with a short expiration time",
+      "To store data on the server",
+      "To store data in a temporary cache"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "58. How do you check if an array includes a specific value in JavaScript?",
+    "options": [
+      "Using the 'contains' method",
+      "Using the 'indexOf' method",
+      "Using the 'includes' method",
+      "Both B and C"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "59. What is the purpose of the 'Array.prototype.map()' method in JavaScript?",
+    "options": [
+      "To create a new array with the results of calling a provided function on every element in the array",
+      "To modify the original array directly",
+      "To filter elements in an array",
+      "To check if all elements in an array pass a test"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "60. What is the purpose of the 'querySelector()' method in JavaScript?",
+    "options": [
+      "To select the first element that matches a specified CSS selector in the document",
+      "To select all elements that match a specified CSS selector in the document",
+      "To select the parent element of a specified element",
+      "To select the next sibling of a specified element"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "61. What is the purpose of the 'try...catch' statement in JavaScript?",
+    "options": [
+      "To handle asynchronous operations",
+      "To catch errors and handle them gracefully",
+      "To define a block of code to be executed if a specified error occurs",
+      "To create a loop with error checking"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "62. How do you convert a JSON string to a JavaScript object?",
+    "options": [
+      "JSON.parse()",
+      "JSON.stringify()",
+      "parseJSON()",
+      "stringifyJSON()"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "63. What is the purpose of the 'Array.prototype.reduce()' method in JavaScript?",
+    "options": [
+      "To create a new array with the results of calling a provided function on every element in the array",
+      "To modify the original array directly",
+      "To combine all elements in an array into a single value",
+      "To check if all elements in an array pass a test"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "64. In JavaScript, what does the 'super' keyword refer to?",
+    "options": [
+      "The parent class",
+      "The current class",
+      "The child class",
+      "A reserved keyword with no specific reference"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "65. What is the purpose of the 'async' keyword in JavaScript?",
+    "options": [
+      "To declare a function as asynchronous",
+      "To indicate that a variable can be modified",
+      "To define a function that returns a promise",
+      "To create a loop with asynchronous operations"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "66. How do you define a default parameter in a JavaScript function?",
+    "options": [
+      "Using the 'default' keyword",
+      "By assigning a value in the function's parameter list",
+      "Using the 'setDefaultValue()' function",
+      "Default parameters are not allowed in JavaScript"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "67. What is the purpose of the 'Object.freeze()' method in JavaScript?",
+    "options": [
+      "To freeze an object and prevent any changes to it",
+      "To remove properties from an object",
+      "To freeze the entire JavaScript environment",
+      "To create a new object with frozen properties"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "68. What is the purpose of the 'Object.create()' method in JavaScript?",
+    "options": [
+      "To create a new object with the specified prototype object and properties",
+      "To create an empty object",
+      "To create a copy of an existing object",
+      "To create an object with predefined values"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "69. What is the purpose of the 'Promise' object in JavaScript?",
+    "options": [
+      "To handle asynchronous operations and represent a value that might be available now, or in the future, or never",
+      "To create promises and enforce asynchronous behavior",
+      "To prevent promises in the code",
+      "To create conditional statements"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "70. What is the purpose of the 'Array.prototype.every()' method in JavaScript?",
+    "options": [
+      "To create a new array with the results of calling a provided function on every element in the array",
+      "To modify the original array directly",
+      "To check if all elements in an array pass a test",
+      "To filter elements in an array"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "71. What is the purpose of the 'Array.prototype.some()' method in JavaScript?",
+    "options": [
+      "To create a new array with the results of calling a provided function on every element in the array",
+      "To modify the original array directly",
+      "To check if some elements in an array pass a test",
+      "To filter elements in an array"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "72. How do you handle errors in a 'Promise' in JavaScript?",
+    "options": [
+      "Using the 'reject()' method",
+      "Using the 'handleError()' function",
+      "Using the 'catch()' method",
+      "By directly modifying the 'error' property of the 'Promise' object"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "73. What is the purpose of the 'Object.keys()' method in JavaScript?",
+    "options": [
+      "To retrieve the keys of an object as an array",
+      "To retrieve the values of an object as an array",
+      "To retrieve both keys and values of an object as an array",
+      "To check if an object has a specific key"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "74. How can you convert a NodeList to an array in JavaScript?",
+    "options": [
+      "Using a loop",
+      "Using the 'Array.from()' method",
+      "Both A and B",
+      "There is no way to convert a NodeList to an array"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "75. What is the purpose of the 'Event delegation' in JavaScript?",
+    "options": [
+      "To delegate events to specific elements",
+      "To handle events at the root level of the DOM and use event bubbling",
+      "To prevent event propagation",
+      "To handle events only on leaf nodes of the DOM"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "76. What is the purpose of the 'querySelector()' method in JavaScript?",
+    "options": [
+      "To select the first element that matches a specified CSS selector in the document",
+      "To select all elements that match a specified CSS selector in the document",
+      "To select the parent element of a specified element",
+      "To select the next sibling of a specified element"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "77. What is the purpose of the 'localStorage' object in JavaScript?",
+    "options": [
+      "To store data that has no expiration time",
+      "To store data with a short expiration time",
+      "To store data on the server",
+      "To store data in a temporary cache"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "78. What is the purpose of the 'sessionStorage' object in JavaScript?",
+    "options": [
+      "To store data that has no expiration time",
+      "To store data with a short expiration time",
+      "To store data on the server",
+      "To store data in a temporary cache"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "79. How do you create a new object with the same prototype as an existing object in JavaScript?",
+    "options": [
+      "Using the 'Object.create()' method",
+      "Using the 'Object.copy()' method",
+      "Using the 'newObject()' function",
+      "By directly assigning the prototype of the existing object"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "80. What is the purpose of the 'Array.prototype.find()' method in JavaScript?",
+    "options": [
+      "To create a new array with the results of calling a provided function on every element in the array",
+      "To modify the original array directly",
+      "To find the first element in an array that satisfies a provided testing function",
+      "To check if all elements in an array pass a test"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "81. In JavaScript, what is a 'Web Worker'?",
+    "options": [
+      "A dedicated background thread for running scripts in parallel",
+      "A worker ant specifically trained for web development",
+      "A browser feature for preventing cross-site scripting",
+      "A type of JavaScript function"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "82. What is the purpose of the 'typeof' operator in JavaScript?",
+    "options": [
+      "To check the type of a variable or expression",
+      "To create a new variable",
+      "To determine the size of a variable",
+      "To concatenate two strings"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "83. What is the purpose of the 'let' keyword in JavaScript?",
+    "options": [
+      "To declare a variable with block scope",
+      "To declare a constant variable",
+      "To declare a global variable",
+      "To declare a variable with function scope"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "84. What is the purpose of the 'Event.preventDefault()' method in JavaScript?",
+    "options": [
+      "To stop the propagation of an event",
+      "To prevent the default action associated with an event",
+      "To pause the execution of an event",
+      "To check if an event has been defined"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "85. What is the purpose of the 'Object.keys()' method in JavaScript?",
+    "options": [
+      "To retrieve the keys of an object as an array",
+      "To retrieve the values of an object as an array",
+      "To retrieve both keys and values of an object as an array",
+      "To check if an object has a specific key"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "86. What is the purpose of the 'localStorage' object in JavaScript?",
+    "options": [
+      "To store data that has no expiration time",
+      "To store data with a short expiration time",
+      "To store data on the server",
+      "To store data in a temporary cache"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "87. How do you check if an array includes a specific value in JavaScript?",
+    "options": [
+      "Using the 'contains' method",
+      "Using the 'indexOf' method",
+      "Using the 'includes' method",
+      "Both B and C"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "88. What is the purpose of the 'Array.prototype.map()' method in JavaScript?",
+    "options": [
+      "To create a new array with the results of calling a provided function on every element in the array",
+      "To modify the original array directly",
+      "To filter elements in an array",
+      "To check if all elements in an array pass a test"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "89. What is the purpose of the 'querySelector()' method in JavaScript?",
+    "options": [
+      "To select the first element that matches a specified CSS selector in the document",
+      "To select all elements that match a specified CSS selector in the document",
+      "To select the parent element of a specified element",
+      "To select the next sibling of a specified element"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "90. What is the purpose of the 'try...catch' statement in JavaScript?",
+    "options": [
+      "To handle asynchronous operations",
+      "To catch errors and handle them gracefully",
+      "To define a block of code to be executed if a specified error occurs",
+      "To create a loop with error checking"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "91. How do you convert a JSON string to a JavaScript object?",
+    "options": [
+      "JSON.parse()",
+      "JSON.stringify()",
+      "parseJSON()",
+      "stringifyJSON()"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "92. What is the purpose of the 'Array.prototype.reduce()' method in JavaScript?",
+    "options": [
+      "To create a new array with the results of calling a provided function on every element in the array",
+      "To modify the original array directly",
+      "To combine all elements in an array into a single value",
+      "To check if all elements in an array pass a test"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "93. In JavaScript, what does the 'super' keyword refer to?",
+    "options": [
+      "The parent class",
+      "The current class",
+      "The child class",
+      "A reserved keyword with no specific reference"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "94. What is the purpose of the 'async' keyword in JavaScript?",
+    "options": [
+      "To declare a function as asynchronous",
+      "To indicate that a variable can be modified",
+      "To define a function that returns a promise",
+      "To create a loop with asynchronous operations"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "95. How do you define a default parameter in a JavaScript function?",
+    "options": [
+      "Using the 'default' keyword",
+      "By assigning a value in the function's parameter list",
+      "Using the 'setDefaultValue()' function",
+      "Default parameters are not allowed in JavaScript"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "96. What is the purpose of the 'Object.freeze()' method in JavaScript?",
+    "options": [
+      "To freeze an object and prevent any changes to it",
+      "To remove properties from an object",
+      "To freeze the entire JavaScript environment",
+      "To create a new object with frozen properties"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "97. What is the purpose of the 'Object.create()' method in JavaScript?",
+    "options": [
+      "To create a new object with the specified prototype object and properties",
+      "To create an empty object",
+      "To create a copy of an existing object",
+      "To create an object with predefined values"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "98. What is the purpose of the 'Promise' object in JavaScript?",
+    "options": [
+      "To handle asynchronous operations and represent a value that might be available now, or in the future, or never",
+      "To create promises and enforce asynchronous behavior",
+      "To prevent promises in the code",
+      "To create conditional statements"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "99. What is the purpose of the 'Array.prototype.every()' method in JavaScript?",
+    "options": [
+      "To create a new array with the results of calling a provided function on every element in the array",
+      "To modify the original array directly",
+      "To check if all elements in an array pass a test",
+      "To filter elements in an array"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "100. What is the purpose of the 'Array.prototype.some()' method in JavaScript?",
+    "options": [
+      "To create a new array with the results of calling a provided function on every element in the array",
+      "To modify the original array directly",
+      "To check if some elements in an array pass a test",
+      "To filter elements in an array"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is your name?",
+    "options": [
+      "jfdkj",
+      "fjdkf",
+      "fjdkjf",
+      "fjdkfj"
+    ],
+    "correctAnswer": 0
+  }
+]
